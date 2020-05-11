@@ -1,0 +1,50 @@
+CHEKSUMS for files from /essen/europa/deutschl/variant
+at https://kern.humdrum.org
+downloaded on Fri Apr 24 13:54:34 PDT 2020
+A current version of these files may be downloaded using the address:
+   https://kern.humdrum.org/data?f=zip&l=/essen/europa/deutschl/variant
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+671373532 813 deut5120.krn
+2001543652 844 deut5121.krn
+893776704 547 deut5122.krn
+2700906023 482 deut5123.krn
+988929050 714 deut5124.krn
+2242071505 698 deut5125.krn
+2148000744 566 deut5126.krn
+4168707412 499 deut5127.krn
+3415479266 525 deut5128.krn
+554638287 563 deut5129.krn
+3699397052 519 deut5130.krn
+2232415350 511 deut5131.krn
+1356874383 515 deut5132.krn
+2626024273 510 deut5133.krn
+1534855392 518 deut5134.krn
+3638604521 516 deut5135.krn
+1992145950 523 deut5136.krn
+3531332073 523 deut5137.krn
+2341114011 528 deut5138.krn
+4284457893 809 deut5139.krn
+106626908 534 deut5140.krn
+648019989 562 deut5141.krn
+2833333 575 deut5142.krn
+428506309 674 deut5143.krn
+3387497179 587 deut5144.krn
+1694377754 625 deut5145.krn

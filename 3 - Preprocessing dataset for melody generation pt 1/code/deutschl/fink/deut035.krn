@@ -1,0 +1,85 @@
+!!!OTL: ICH WOLLT ICH WAER EIN FISCH
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0101
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/8
+*k[f#]
+*G:
+{16b
+16cc
+=1
+8dd
+8dd
+16b
+16cc
+=2
+8dd
+8r}
+{16gg
+16dd
+=3
+8b
+8b
+8a
+=4
+8g
+8r}
+{16b
+16a
+=5
+8a
+8a
+8a
+=6
+8dd
+8a}
+{16f#
+16g
+=7
+8a
+8a
+8a
+=8
+8dd
+8a}
+{16dd
+16ee
+=9
+8.ff#
+16gg
+16ff#
+16ee
+=10
+16ee
+16dd
+16dd
+16r}
+{16b
+16cc
+=11
+8dd
+8dd
+16b
+16cc
+=12
+8dd
+8r}
+{16gg
+16dd
+=13
+8b
+8b
+8a
+=14
+4g}
+==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

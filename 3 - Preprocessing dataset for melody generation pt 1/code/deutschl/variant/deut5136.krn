@@ -1,0 +1,51 @@
+!!!OTL: Siehst du wohl, da kimmt er, grosse Schritte nimmt er
+!!!ARE: Europa, Mitteleuropa, Deutschland, Ober - Franken, Schauenstein
+!!!SCT: V0003H
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{8.c
+16c
+8d
+8c
+=1
+4e
+4e}
+=2
+{8c
+8c
+8d
+8c
+=3
+4f
+4f}
+=4
+{8.a
+16a
+8b-
+8a
+=5
+8a
+8g
+4g}
+=6
+{8.g
+16g
+8a
+8g
+=7
+8g
+8f
+4f}
+==
+!!!AGN: Geselligkeits - Lied, Scherz
+!!!ONB: ESAC (Essen Associative Code) Database: VARIANT
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

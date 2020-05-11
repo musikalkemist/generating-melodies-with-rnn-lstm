@@ -1,0 +1,36 @@
+CHEKSUMS for files from /essen/europa/deutschl/test
+at https://kern.humdrum.org
+downloaded on Fri Apr 24 13:54:33 PDT 2020
+A current version of these files may be downloaded using the address:
+   https://kern.humdrum.org/data?f=zip&l=/essen/europa/deutschl/test
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+3298804754 491 deut5146.krn
+1271757967 488 deut5147.krn
+4062654772 549 deut5148.krn
+1169272993 594 deut5149.krn
+1104049873 603 deut5150.krn
+3142244590 569 deut5151.krn
+678400080 497 deut5152.krn
+4062654772 549 deut5153.krn
+1169272993 594 deut5154.krn
+3433411374 502 deut5155.krn
+4062654772 549 deut5156.krn
+1169272993 594 deut5157.krn

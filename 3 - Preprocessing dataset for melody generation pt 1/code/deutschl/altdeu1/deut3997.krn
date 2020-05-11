@@ -1,0 +1,66 @@
+!!!OTL: Buchsbaum und Felbinger
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0273C
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/2
+*k[f#]
+*G:
+{2g
+=1
+1g
+2g
+=2
+1a
+2b
+=3
+1cc
+2b
+=4
+1a}
+{2b
+=5
+1cc
+2cc
+=6
+1b
+2g
+=7
+1a
+2b
+=8
+1a}
+{2g
+=9
+1g
+2g
+=10
+1g
+2e
+=11
+1fn
+2g
+=12
+1a}
+{2b
+=13
+1cc
+2b
+=14
+1a
+2g
+=15
+1.a
+=16
+1.g}
+==
+!!!AGN: Romanze, Ballade, Lied
+!! Werlin Hs. von 1646 S. 1502.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

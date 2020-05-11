@@ -1,0 +1,67 @@
+!!!OTL: Weihnachtslied des 14. Jahrhunderts
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0517
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  3/2; 4/2
+*M3/2
+*k[b-e-]
+*g:
+{2g
+=1
+1g
+2g
+=2
+1a
+2a
+=3
+2b-
+2cc
+2dd
+=4
+1dd}
+{2dd
+=5
+1cc
+2cc
+=6
+1g
+2a
+=7
+2b-
+2r}
+{2b-
+=8
+*M4/2
+2dd
+2ffn
+2gg
+2gg
+=9
+*M3/2
+4ffn
+4ee-
+4dd
+4cc
+2b-}
+=10
+{2cc
+=11
+*M4/2
+2dd
+2cc
+2b-
+2a
+=12
+1g}
+==
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Andernacher Gsgb. 1608 No. 27
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

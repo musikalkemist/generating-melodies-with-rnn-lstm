@@ -1,0 +1,83 @@
+!!!OTL: Alte niederlaendische Tanzmelodie
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0309A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/2
+*k[f#]
+*G:
+{2g
+=1
+2.g
+4g
+2.b
+4b
+=2
+2.dd
+4dd
+2.b}
+{4b
+=3
+2.dd
+4dd
+2.b
+4cc
+=4
+1dd
+2dd}
+{2g
+=5
+2.g
+4g
+2.b
+4b
+=6
+2.dd
+4dd
+2.b}
+{4b
+=7
+2.dd
+4dd
+2.b
+4cc
+=8
+1dd
+2dd}
+{2dd
+=9
+2.dd
+4dd
+2.dd
+4dd
+=10
+2.b
+4b
+2.a}
+{4a
+=11
+2.b
+4a
+2.g
+4fn
+=12
+2.e
+4fn
+2.g
+4a
+=13
+1b
+1a
+=14
+1.g}
+==
+!!!AGN: Romanze, Ballade, Lied
+!! Souterliedekens 1540 ad Ps. 132
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

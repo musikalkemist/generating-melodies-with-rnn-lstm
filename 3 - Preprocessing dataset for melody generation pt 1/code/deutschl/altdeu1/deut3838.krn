@@ -1,0 +1,76 @@
+!!!OTL: Nachtfahrt
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0074
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M3/2
+*k[b-]
+*d:
+{4d
+4e
+=1
+2.fn
+4e
+2fn
+=2
+2.g
+4fn
+2g
+=3
+[1.a
+=4
+2a]
+2r}
+{2a
+=5
+2.g
+4a
+2b-
+=6
+2.a
+4b-
+2g
+=7
+[1.fn
+=8
+1fn]}
+{4fn
+4g
+=9
+1a
+2a
+=10
+2.ccn
+4b-
+2a
+=11
+1.g
+=12
+2e
+2a}
+{2g
+=13
+2.fn
+4e
+2d
+=14
+2.c#
+4d
+2e
+=15
+[1.d
+=16
+1d]}
+==
+!!!AGN: Romanze, Ballade, Lied
+!!  Melodie aus Hainhofer, Lautenbuch II.Bl.7 (Mspt. von 1603. Bibl.
+!!    zu Wolfenbuettel). Die Melodie ist von Boehme aus der Lautenschrift
+!!    entziffert.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

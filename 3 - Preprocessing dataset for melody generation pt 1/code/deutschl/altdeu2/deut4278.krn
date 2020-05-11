@@ -1,0 +1,69 @@
+!!!OTL: Alter Ostergesang
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0552D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/1; 6/1
+*M4/1
+*k[f#c#]
+*D:
+=1
+{0a
+1g
+1a
+=2
+*M6/1
+0ccn
+0dd
+0a}
+=3
+*M4/1
+{1a
+1g
+1a
+1fn
+=4
+*M6/1
+0e
+0fn
+1.d}
+{2d
+=5
+*M4/1
+2g
+2g
+1g
+1d
+1cn
+=6
+*M6/1
+0fn
+0g
+0a}
+=7
+*M4/1
+{1a
+1g
+1a
+1fn
+=8
+*M6/1
+0e
+0f#
+0d}
+=9
+{0e
+1cn
+1d
+0d}
+==
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Schumanns ev. Gesangbuch 1539.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

@@ -1,0 +1,73 @@
+!!!OTL: Alter Ostergesang
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0552B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  4/1; 6/1; 5/1%%%2+3%
+*M4/1
+*k[f#]
+*G:
+=1
+{0dd
+1cc
+1dd
+=2
+*M6/1
+0ffn
+0gg
+0dd}
+=3
+*M4/1
+{1dd
+1cc
+1dd
+1b-
+=4
+1a
+1b-
+1g
+2r}
+{2g
+=5
+1.cc
+2cc
+1b-
+1g
+=6
+1b-
+1cc
+0dd}
+=7
+{1dd
+1b-
+1dd
+1b-
+=8
+1a
+1b-
+1g
+1a}
+=9
+*M5/1%%%2+3%
+{1fn
+2g
+2b-
+1a
+2b-
+1g
+2f#
+=10
+[0g
+0g]}
+==
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Vorletzter Takt eigentlich 2 Takte 2/1 3/1.
+!!    H Finck 1536, vor 1596 notiert.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
